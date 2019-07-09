@@ -1,0 +1,1162 @@
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Wed, 01 Feb 2012 12:22:30 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=e-Ucl_P3ALKYKpBGyDvnofhttd4ENOHsuXN_Da1kb5XJ2L9GPjvtid7eGKvbFZQoC72-WWEnRfjGahSw_3jT7k9B2nzSscNF9881feILZHq33j7L6h3u2r3wP8Kdb9XFlf9YeG%7cm39H6-KR2pcJUOmQczqBC5WDKTP8_6Lo_KaubPVaLvhWSr8HWdVfod8mkui6lswmpA9CJ0%7ccipc0cLbjSoiUoPODdEKuxQ5-UpKKuULwf832Eh_wRGz9tuYThPzKrNEfkGXQvEIPz6lxm%7c1328098951; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Sat, 29-Jan-2022 12:22:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Tue, 27-Jan-2032 12:22:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1328098950745135; path=/; expires=Fri, 24-Jan-42 12:22:30 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+18
+mja8hub2
+payment status: Completed
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 100.00
+currency: PHP
+Completed baby
+18
+mja8hub2
+
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Wed, 01 Feb 2012 23:37:28 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=q3AzaxAMy6NPr2bCc7AoJK8B9Crue77PSs00bDYwuC2mhdFoZcnMicHPvON2ABlehuBjbP4TaxHi1Lq2K5sIs-W0So5TKD46ZEGkbl4S0GHwwkUe2WbaRQaWBETsINBK9he04m%7c90anG5w4hNu3iZBlr8Gj4ud06uIOh1tY3DeAS9OQqZrn1N4q6uxvfGI27SmxQlxW6upEGW%7cRoDJ8CcQMg1yiG3O_TnPLLWnCjxQLDPwcw1-ewr1hmn44F4gSVRTfdzd_m1-Ll8qnLdMWm%7c1328139448; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Sat, 29-Jan-2022 23:37:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Tue, 27-Jan-2032 23:37:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1328139448091024; path=/; expires=Fri, 24-Jan-42 23:37:28 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+26
+4im5a6b2
+payment status: Completed
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 7019.00
+currency: PHP
+Completed baby
+26
+4im5a6b2
+
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Thu, 02 Feb 2012 06:41:21 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=422-wKdxdH7tvuyJWWR-b6fGseo7Bz2D7ju-p7F51SBs8Y7Bos_eJShZsKE2j6MsiYk1IngbUjmc9Q14Bk9QAnSqj1PZrQwku5-AulOAi_GjejHS0nxmcXu5AHgfCe_S1gCQkG%7cCOcifmNDYogbGSn7I1FJFNIS9Ltbm3nzKB5QfUiLPAyEt4fne_Q0wc_6uSGx9iB3riNLjm%7cRS7URRH4lCvzXTD5Qbf0NyqzO3kfsgq1K2MWYfnUSR21RIdb5LVhgTrw0SXOUE-l2U4VXm%7c1328164882; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Sun, 30-Jan-2022 06:41:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Wed, 28-Jan-2032 06:41:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1328164881837225; path=/; expires=Sat, 25-Jan-42 06:41:21 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+13
+bmy66n5w
+payment status: Completed
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 318.00
+currency: PHP
+Completed baby
+13
+bmy66n5w
+
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Sun, 26 Feb 2012 09:23:48 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=h7-yDKcZkRCNjK6HCgA17DnoOYhgXN-KEU5a3QNWto8hya66247OAYv7C6U9RZeZBovbLsmUPvGfJafS7JA4qlQO9exHOkeEx7ceCyQJF6NVRR-GipRJQY-fps12yXC2UQaEjW%7cDXfUhf7NmniWQjjwaylca5rvLrN3qMnpA_UtXXN9tf4kKJGZJeUlk6TH72f19sTqZoPn-m%7cpQ-G7JopBouFNd4CxnPAETNstfM4mRh-SnkpEad04mzfide7-1M2QN8ALJFfD4JCojjPam%7c1330248228; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Wed, 23-Feb-2022 09:23:48 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sat, 21-Feb-2032 09:23:48 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330248228486171; path=/; expires=Tue, 18-Feb-42 09:23:48 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+26
+xgjqe4dc
+payment status: Completed
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 1200.00
+currency: PHP
+Completed baby
+26
+xgjqe4dc
+
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Sun, 26 Feb 2012 09:44:37 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=hepui7jntpYg8ysWTFsRpXsXuSabjGue4G3GPP8r20YcyYMQBQUXz-OSDxxhEs4rTt2M9YZsZ4eYX1AAk61eQ4fU_XwOpYO24g-h2FRF4TgdEi6R8ULRhx9F0Ky26ufB_4GBD0%7cjMxnW8nY67jNP8jWQ7XpEo6O68DIxZeyXwyW2F5N4dyvFIK3xpYFvAbbXCvYc8pX91bTF0%7cz-WDVaqShLC_RyW-ueD4uM2oUxhraSUyg-xxi-VPIX5jwdJWHI0IH9qU-JBuiEUUDdEckW%7c1330249477; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Wed, 23-Feb-2022 09:44:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sat, 21-Feb-2032 09:44:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330249477491929; path=/; expires=Tue, 18-Feb-42 09:44:37 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+26
+7n4dxehr
+payment status: Pending
+receiver email: mamma__1330248786_biz@yahoo.com
+amount: 450.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 6RY29344F0207794B 
+
+ Payment status = Pending 
+
+ Payment amount = 450.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Sun, 26 Feb 2012 09:49:40 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=r3ix2iMb6p_2yuOlA49PpdNb8ez0_m4OPD2U3QWDmXxbG_xaAb48wKBGtAZ9dPd1TVZCfHNUR7bZgdoXK-775XKrjghlWODEPedP4-Iwki3gNd3xXWcYLFmM7mvs7MtW5WpUy0%7c1M20mtNdzPVFp2yZZFYZqJainuSD4s6Aoku3ygeR5EgpjtGhJReQHu7NsC8ltf8Mi6iSiG%7cDuJLvh0DIFFqAU44thZV1bipn7N9EXkVi1zwWAS7LMK6v8xPKHCBFPZF4QoJodMJLZxeBG%7c1330249781; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Wed, 23-Feb-2022 09:49:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sat, 21-Feb-2032 09:49:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330249780670108; path=/; expires=Tue, 18-Feb-42 09:49:40 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+26
+kzjdpbp4
+payment status: Pending
+receiver email: mamma__1330248786_biz@yahoo.com
+amount: 850.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 1V299300GS177202P 
+
+ Payment status = Pending 
+
+ Payment amount = 850.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Sun, 26 Feb 2012 09:58:19 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=MmnHqGQdq-6BdAoZc_323_TDWv3mAl67MFzbnVlGFyI_JcGX-QIuBu6CNET2AV_YXXXqQLQ6u-KdUuEnWgqVCrYCbiRi-OzBQE3KOXPWc6BrdeV4To8BvJiVbAFugBJeNXny10%7cZio2LCGT1-0MnZAM2AwxpAqRJS5KVQkGUeQ20GITFIPFZ_YFcolBMWdfEYYjpu3XECKjYW%7cQS1vsR9V-OXPHoHdLX7tGAMzEJBZtmaP7_fKBRejtPpXWrcSLiyJxVmfJimJdFRbRw0W20%7c1330250299; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Wed, 23-Feb-2022 09:58:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sat, 21-Feb-2032 09:58:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330250299167458; path=/; expires=Tue, 18-Feb-42 09:58:19 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+26
+4stg5o4v
+payment status: Pending
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 250.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 3KA06869PM463124H 
+
+ Payment status = Pending 
+
+ Payment amount = 250.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Sun, 26 Feb 2012 10:11:04 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=xF7Biz-BuqO7K3ISYLGcCEZmHyPcvtCv0RZhScjgkZoCwi2L_yBkcHti9QExX6uek8b8rc6tkFLjpYlZYQoRJEn9OUqpuIfE2NsIOLN8mICvFJA_93Fo0TnIOVQGr7U2oBMYfW%7cDr0SYrmtkNdLqnmP4T7f1qiBfgCcpiuo_P_aqOkt5uV5D3Fe0pUELoRIMHcvcgpUWmxeVG%7cx5O-Byadr9mnkDHN9rI04QIi8MbkAnSH86wobgV3Xjkv9aMMptUfEzPngOUFbxAtLIlttm%7c1330251065; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Wed, 23-Feb-2022 10:11:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sat, 21-Feb-2032 10:11:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330251064754754; path=/; expires=Tue, 18-Feb-42 10:11:04 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+26
+6vv7dg0v
+payment status: Pending
+receiver email: mamma__1330248786_biz@yahoo.com
+amount: 200.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 2ME93483D59775845 
+
+ Payment status = Pending 
+
+ Payment amount = 200.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Sun, 26 Feb 2012 10:21:15 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=CyR7qSHE9mI83XmS5XLxtOJwKYxKyoc8UlQ-ryY1R4zrvnIZPgnmQBEFrQ-qfhYkXZJTaKL6g7Kzo9OrId52fiLwPsMPpBLLC2Hgux1xBZl3sIjuYEaspC3lH5NrAoN2aCCU9m%7cB_smQorkgetAyO6mGaEnCLwKUwnr3ryFrc8_yHA5uvn9lKNHXf3eT33Rie8-5qv6fpCHMG%7cxVoECC4gnmz7rXgefdODdhJpu3EcHkBUPoAoHzuc2kXScReVP0nhhPkpGlujXdtoPRmwPm%7c1330251676; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Wed, 23-Feb-2022 10:21:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sat, 21-Feb-2032 10:21:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330251675916592; path=/; expires=Tue, 18-Feb-42 10:21:15 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+26
+nmukxj8i
+payment status: Pending
+receiver email: mamma__1330248786_biz@yahoo.com
+amount: 250.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 8ER34476WY358411Y 
+
+ Payment status = Pending 
+
+ Payment amount = 250.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Sun, 26 Feb 2012 10:26:58 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=RYo9V32uhCyDNm_vCq2MWG9cxQbeUnuVx4aPrhAKpCcziCbPIU57zVZPsY5UzeQIFqOJHdY4uF6iJJrRziDrImBZ9NH16Hy2LmCi06xzs5BynZ1KNZve_nCeXsbgc6h8wlpUv0%7cHvfCdPrb51matLJwCX732h8WdNlnfTDy00t3and9fIZNybcnhheUK6EbAlfQJ3siY8fOR0%7c_eNhxzB7bWyR35EHoA6dBDCaOAQeq4dY22-Vs6mjPV5Be8h2vDbgFtNm-9oGzF8XxQttbW%7c1330252018; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Wed, 23-Feb-2022 10:26:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sat, 21-Feb-2032 10:26:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330252018212756; path=/; expires=Tue, 18-Feb-42 10:26:58 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+26
+z8bxcqf4
+payment status: Pending
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 200.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 4R485286681127907 
+
+ Payment status = Pending 
+
+ Payment amount = 200.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Mon, 27 Feb 2012 02:20:58 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=MnW-mzDK04TCVZ38VC-PSyVQ3_nKd4BAcXHUszSvFFD1oznmtXVDOdzqj-DTgJ67qSASSf1nfg3SC4PmgWSc1xRmLstG2kQUSQgULkeV8-6jzem6mo4EgIYl3fLNyzAWvBYD8W%7c5wjn0Rk6eE9toWs6h2fPZsg9Zz0a5nYtwzdMZM5rAE3qcsISr8L3pGKetg4ofcjwo6YZcm%7cp1fhRd9uE-ritW1htBEZnv5nPEllfC7JNIavV61jSc1AV8sKe7t8Ksh88Lmc23pGfY7xiW%7c1330309258; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Thu, 24-Feb-2022 02:20:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sun, 22-Feb-2032 02:20:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330309258535207; path=/; expires=Wed, 19-Feb-42 02:20:58 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+27
+sqt5ytar
+payment status: Pending
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 100.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 2SN63603789470244 
+
+ Payment status = Pending 
+
+ Payment amount = 100.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Mon, 27 Feb 2012 02:26:46 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=GIHg4bxGFidDmfacX1ZJgshIdUx4iIpuKrGx4MXm-fhvusU7oRZICko_l7_JIUkK98rYCBP0pR1X_LKoO4bJGv9HPisydaNWZTDTMPmWqJ2paWovr8kk_621C_cTscV2jsHRU0%7cgA3m_ydEKP6LjsWZPqMw76azO4NAE1EwCk6BQrPMw38wOCCRaeaBvZm6BAExJJ40n8GtXm%7cY6lsPGvtHyLYaFXPqVNS5N3a2ZHFJmuwcFc8Gk_0_CwIU3t0575inhsWJ4aGtIxs8RkQym%7c1330309606; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Thu, 24-Feb-2022 02:26:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sun, 22-Feb-2032 02:26:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330309606061789; path=/; expires=Wed, 19-Feb-42 02:26:46 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+27
+2ojgnm4y
+payment status: Pending
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 100.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 8G565447HW384090D 
+
+ Payment status = Pending 
+
+ Payment amount = 100.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Mon, 27 Feb 2012 02:32:53 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=goz0nhGJOsMusnnh13r0Fz2ifCWaBRhdpZWrykwIGVwb66kZXodwI2pOs13dWrqjF3LV8jNQ-XhqKw0ILnM8N97GdThCG61JFVp1ZxSqFxtugOpg2_OCtTO39m3HX67wRGGORW%7cZz-IDH4DnmD_nO44CQXqL6gtcw2l3StbF1G25Lqai-r42mWj_hiqA2BlLjZrOTzOwwCxSW%7cHs2ypZCVgxZcBTiYYZxhjRO8u5qpRejaXNTzu_lB9E5nanjbJITIHMB17WMsyWdVNBDwrm%7c1330309973; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Thu, 24-Feb-2022 02:32:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sun, 22-Feb-2032 02:32:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330309973171468; path=/; expires=Wed, 19-Feb-42 02:32:53 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+27
+ehd36fzh
+payment status: Pending
+receiver email: argiep_1323161081_biz@gmail.com
+amount: 400.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 0JC14558RS680490F 
+
+ Payment status = Pending 
+
+ Payment amount = 400.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Mon, 27 Feb 2012 02:53:37 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=YNJLy5-1HwF64JCZ8MXumCak25U3OeiYsaa-h_BigdHrL1FLvc_pRRmmMTNZAP20UAqiJ-uLFWI0VtqtVIBtG_K9ANacVS79W5y8Pmst_b6OC4HtZ8NJh46_ZeYuccNtn5Lsdm%7cOZG8WIjJaGNkBkzuVHIyw8vXNj-e_YSbykh88BehKsQ7Mdk1Z_Ko2gThmqKg3JfhyeCJq0%7cOypdJJYg4GvH4Y8rBcSscANujtJVchTF-pIAlJoMV411GzBMBuFT-e3O9BrT4CuQHLNMMW%7c1330311218; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Thu, 24-Feb-2022 02:53:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sun, 22-Feb-2032 02:53:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330311217917842; path=/; expires=Wed, 19-Feb-42 02:53:37 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+27
+xq38bys8
+payment status: Pending
+receiver email: mamma__1330248786_biz@yahoo.com
+amount: 400.00
+currency: PHP
+status baby:
+Something wrong. 
+
+The transaction ID number is: 47504367RG537471P 
+
+ Payment status = Pending 
+
+ Payment amount = 400.00
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Mon, 27 Feb 2012 03:17:42 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=SqcfARMNyFKAH6QEin4849MCf67TiH7fXYjtK4jDiezlupElHDOq0SYU3Nb2O5AX5A_YTbuM2tPNkV7mo9fuejSjPh8DDfhV-HxOx6GaP_tB9-6GqWyk19mBvX7H9ZE8wiSLv0%7cMIrWd2O5V_0kb3atXKyBUEHJEhofS0Qb4Dk9j05JKaLROJI9zmdqw_09NH5ZqOtuCoItbW%7c1QzaWrpIXe1F_qt9M-HiBREJcHlYnswQ-Z4XwH3Z4P9OKm_0Yf2OhUx5wD7shI-UA_fZiG%7c1330312663; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Thu, 24-Feb-2022 03:17:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sun, 22-Feb-2032 03:17:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330312662749740; path=/; expires=Wed, 19-Feb-42 03:17:42 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+27
+3yw782fo
+payment status: Pending
+receiver email: mamma__1330248786_biz@yahoo.com
+amount: 100.00
+currency: PHP
+Completed baby
+27
+3yw782fo
+
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Mon, 27 Feb 2012 03:23:36 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=2baIfSs-1e_k3FbTZK61JUzZOhyEFFKw-3wDtYVKbsy3wB_El5lyx7LjrJxhY0Re0QCobmpFprqfhirZOnvnXnzH_e6VlkIpYg4JxT_feIpwI8D32otFrONA0znqUtn9zJb8Z0%7cMzklpFaJKIESyYkJl3H4POYwB3aGFt9xKcI2NGciykPVUovNf0IlHAu2hw5fqW06kafEv0%7cqNX0RiZ8ik7bdeLQ_4fwhmjx2Xc1nSnR0aoTp1utOKVsA-bsoUgR1dBAkX5Izqx5_BdtUW%7c1330313017; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Thu, 24-Feb-2022 03:23:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sun, 22-Feb-2032 03:23:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330313016724735; path=/; expires=Wed, 19-Feb-42 03:23:36 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+27
+gsth3r38
+payment status: Pending
+receiver email: mamma__1330248786_biz@yahoo.com
+amount: 200.00
+currency: PHP
+Completed baby
+27
+gsth3r38
+
+gn close gd...
+awsus 1
+awsus 2
+after else
+after while
+Get res value baby
+HTTP/1.1 200 OK
+
+after while
+Get res value baby
+Date: Mon, 27 Feb 2012 06:45:16 GMT
+
+after while
+Get res value baby
+Server: Apache
+
+after while
+Get res value baby
+X-Frame-Options: SAMEORIGIN
+
+after while
+Get res value baby
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=YFg-Q0KICRoDkIUyZvSwBKEZxmhcByTolYuPJ6JxupvL8gbfOKhsu7ONPMN5IL5eaqSyX1zBstDr-bipdbztuQeJkPwPEys8UvZsd699VaFQesZOu2MKDpkcQ4crZgAEMb_CpW%7cELWHA7eWNJ-aGi1dkHje45C0aTp9d-l3UVw4Sj-glbaEPXVNGg01Jy1l7tLmrsNsvyhdw0%7clqDAmukt6H8yq8Ivn8AYhhnEjufri8b4d_UGbWLUxvQYeFLfcJAn3DzqKqrnmk374GSjZm%7c1330325116; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: cookie_check=yes; expires=Thu, 24-Feb-2022 06:45:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: navlns=0.0; expires=Sun, 22-Feb-2032 06:45:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+
+after while
+Get res value baby
+Set-Cookie: Apache=10.72.109.11.1330325116547893; path=/; expires=Wed, 19-Feb-42 06:45:16 GMT
+
+after while
+Get res value baby
+Connection: close
+
+after while
+Get res value baby
+Content-Type: text/html; charset=UTF-8
+
+after while
+Get res value baby
+
+
+after while
+Get res value baby
+VERIFIED
+after verified baby
+31
+8uf2dpm8
+payment status: Pending
+receiver email: mamma__1330248786_biz@yahoo.com
+amount: 425.00
+currency: PHP
+Completed baby
+31
+8uf2dpm8
+
+gn close gd...
